@@ -1,4 +1,8 @@
-### Hi there 👋
+### KIM YU JIN
+JS, TS를 사랑하는 프론트엔드 개발자 김유진입니다. <br>
+웹 자체에 전반적으로 관심이 많고, 사용자를 위한 서비스 개발을 좋아합니다. 😆
+
+`Javascript` `Typescript` `React` `Next`
 
 <!--
 **jellybrown/jellybrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
