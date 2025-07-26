@@ -1,6 +1,5 @@
 ### KIM YU JIN
-JS, TS를 사랑하는 프론트엔드 개발자 김유진입니다. <br>
-웹 자체에 전반적으로 관심이 많고, 사용자를 위한 서비스 개발을 좋아합니다. 😆
+사용자를 위한 서비스 개발을 좋아합니다. 😆
 
 `Javascript` `Typescript` `React` `Next`
 
@@ -18,7 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://user-images.githubusercontent.com/38929712/148078555-09985bfe-417f-4e00-a2ac-1057af35e7d6.png)
-
-![image](https://user-images.githubusercontent.com/38929712/148078614-4b1a9ed6-f3a7-41c2-b31e-63eac608dcd6.png)
